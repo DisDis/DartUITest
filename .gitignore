@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.pub/
+.buildlog
+.settings/
+build/
+packages
+pubspec.lock
+analyzer.log
+test.log
+bin/resources/config.json

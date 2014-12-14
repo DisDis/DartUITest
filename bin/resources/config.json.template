@@ -1,0 +1,19 @@
+{
+  "Log":{
+   "Level":"ALL"
+  },
+  "analyzer":{
+    "directories":["lib"]
+  },
+  "pub":{
+    "mode":"release",
+    "directories":["test"],
+    "hostname":"localhost",
+    "port":8898,
+    "options":[]
+  },
+  "content_shell":{
+    "cs_path":"/home/dis/workspace/dart/UITest/drt-lucid64-full-dev-42033.0",
+    "target":"http://localhost:8898"
+  }
+}
